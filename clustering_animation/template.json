@@ -1,0 +1,11 @@
+{
+    "questions_added": [
+        "first question received", 
+        "second question received",
+        "third question received"
+    ],
+    "final_clustering": [
+        ["first question received", "second question received"],
+        ["third question received"]
+    ]
+}

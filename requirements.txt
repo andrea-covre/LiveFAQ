@@ -1,0 +1,9 @@
+pip
+kafka-python
+argparse
+sentence_transformers
+tensorflow
+tensorflow_hub
+torch
+sklearn
+time

@@ -1,0 +1,82 @@
+{
+  "questions_added": [
+    "How many days does the FIFA World Cup last?",
+    "What is the average ticket to a soccer game?",
+    "What is the cost of a 2022 FIFA World Cup ticket?",
+    "How many red cards have been given out so far in the 2022 World Cup?",
+    "How many players got a yellow card in the 2022 World Cup?",
+    "What is the difference between a yellow card and a red card?",
+    "What happens if a player gets two yellow cards?",
+    "Shouldn’t that be a foul?",
+    "What country won the last World Cup?",
+    "What team is most likely to win?",
+    "When is the 2022 World Cup final match?",
+    "What is the team with the most wins so far in the 2022 World Cup?",
+    "How are the groups drawn?",
+    "What is the difference between knockout stage and group stage?",
+    "How many goals have been scored in FIFA World Cup?",
+    "How long is a football game?",
+    "How long does a soccer match last?",
+    "How do they determine how many minutes to add at the end in a soccer game?",
+    "Is hand of God considered a foul in soccer?",
+    "Is unintentional hand play a foul in soccer?",
+    "How many stadiums will the 2022 World Cup be played in?",
+    "What are the common formations in soccer?",
+    "How many countries are playing in the 2022 FIFA World Cup?",
+    "Where is the 2022 FIFA World Cup?",
+    "Which country is hosting the FIFA World cup?",
+    "What is the offside rule in soccer?",
+    "Can you explain the offside rule in football?",
+    "Why do refs raise offside flag so late?",
+    "How many players can play in a single game?"
+  ],
+  "final_clustering": [
+    ["How are the groups drawn?"],
+    [
+      "How many days does the FIFA World Cup last?",
+      "How long is a football game?",
+      "How long does a soccer match last?",
+      "How do they determine how many minutes to add at the end in a soccer game?"
+    ],
+    [
+      "What happens if a player gets two yellow cards?",
+      "Shouldn’t that be a foul?",
+      "Is hand of God considered a foul in soccer?",
+      "Is unintentional hand play a foul in soccer?",
+      "Why do refs raise offside flag so late?"
+    ],
+    [
+      "What country won the last World Cup?",
+      "Which country is hosting the FIFA World cup?"
+    ],
+    [
+      "When is the 2022 World Cup final match?",
+      "How many stadiums will the 2022 World Cup be played in?",
+      "Where is the 2022 FIFA World Cup?"
+    ],
+    [
+      "How many red cards have been given out so far in the 2022 World Cup?",
+      "How many players got a yellow card in the 2022 World Cup?",
+      "How many goals have been scored in FIFA World Cup?",
+      "How many countries are playing in the 2022 FIFA World Cup?",
+      "How many players can play in a single game?"
+    ],
+    [
+      "What are the common formations in soccer?",
+      "What is the offside rule in soccer?",
+      "Can you explain the offside rule in football?"
+    ],
+    [
+      "What is the difference between a yellow card and a red card?",
+      "What is the difference between knockout stage and group stage?"
+    ],
+    [
+      "What team is most likely to win?",
+      "What is the team with the most wins so far in the 2022 World Cup?"
+    ],
+    [
+      "What is the average ticket to a soccer game?",
+      "What is the cost of a 2022 FIFA World Cup ticket?"
+    ]
+  ]
+}
